@@ -1,5 +1,5 @@
 A,python-ueberzug,creates viewable images in the termial (used in vifm)
-A,ffmpegthumbnailer,creates video thumbnail images 
+A,ffmpegthumbnailer,creates video thumbnail images
 A,ttf-ubuntu-font-family,is a font face
 ,noto-fonts,is a collection of free google fonts
 ,i3-gaps,is the tiling window manager
@@ -46,3 +46,4 @@ A,fzf,is a fuzzy file finder
 ,xdotool,provides window action utilities on the command line.
 ,xorg-xdpyinfo,aids with resolution determination and screen recording.
 A,spotify,is a music player.
+A, ntp,is a timezone manager.

@@ -210,7 +210,7 @@ rm -f "/home/$name/README.md" "/home/$name/LICENSE"
 [ -f /usr/bin/pulseaudio ] && resetpulse
 
 # Enable services here.
-serviceinit NetworkManager cronie snapd
+serviceinit NetworkManager cronie snapd ntpd
 
 # Most important command! Get rid of the beep!
 systembeepoff
