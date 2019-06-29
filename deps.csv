@@ -47,3 +47,5 @@ A,fzf,is a fuzzy file finder
 ,xorg-xdpyinfo,aids with resolution determination and screen recording.
 A,spotify,is a music player.
 A,xcwd-git,gets the current directory of the terminal.
+,noto-fonts-emoji,contains emojis
+,xdotool,is a cli tool for performing keystrokes
