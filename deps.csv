@@ -10,7 +10,7 @@ A,ttf-ubuntu-font-family,is a font face
 ,arandr,is a GUI for screen adjustment
 ,code,is vscode (a lightweight IDE)
 ,caja,is a graphical file explorer
-A,compton-tryone-git,is for transparency and removing screen-tearing.
+A,compton-rounded-corners,is for transparency and rounded corners.
 ,cronie,runs commands at certain times.
 ,dunst,is the application launcher
 A,google-chrome,is the browser
@@ -46,6 +46,10 @@ A,fzf,is a fuzzy file finder
 ,xdotool,provides window action utilities on the command line.
 ,xorg-xdpyinfo,aids with resolution determination and screen recording.
 A,spotify,is a music player.
-A, ntp,is a timezone manager.
+A,ntp,is a timezone manager.
 A,xcwd-git,gets the current directory of the terminal.
 ,noto-fonts-emoji,contains emojis
+,zsh,is a more customizable shell.
+,zsh-completions,adds autocompletion to zsh
+A,antibody,is a plugin manager for zsh
+A,networkmanager-dmenu-git,allows for network managment via dmenu.
