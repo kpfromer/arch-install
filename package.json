@@ -1,5 +1,5 @@
 {
-  "name": "arch-install",
+  "name": "@kpfromer/arch-install",
   "version": "1.0.0",
   "description": "An arch mass package installer.",
   "main": "lib/index.js",
