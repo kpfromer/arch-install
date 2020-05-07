@@ -1,6 +1,6 @@
 {
   "name": "arch-install",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "An arch mass package installer.",
   "main": "lib/index.js",
   "license": "MIT",
