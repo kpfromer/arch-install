@@ -41,7 +41,7 @@
     "@types/chalk": "2.2.0",
     "@types/inquirer": "6.5.0",
     "@types/node": "13.13.12",
-    "@types/superagent": "4.1.7",
+    "@types/superagent": "4.1.8",
     "@types/yargs": "15.0.5",
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
