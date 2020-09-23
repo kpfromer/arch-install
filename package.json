@@ -42,7 +42,7 @@
     "@types/inquirer": "6.5.0",
     "@types/node": "13.13.21",
     "@types/superagent": "4.1.10",
-    "@types/yargs": "15.0.5",
+    "@types/yargs": "15.0.6",
     "commitizen": "4.2.1",
     "cz-conventional-changelog": "3.3.0",
     "husky": "4.3.0",
