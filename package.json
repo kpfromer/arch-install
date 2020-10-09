@@ -40,7 +40,7 @@
     "@semantic-release/release-notes-generator": "9.0.1",
     "@types/chalk": "2.2.0",
     "@types/inquirer": "6.5.0",
-    "@types/node": "13.13.24",
+    "@types/node": "13.13.25",
     "@types/superagent": "4.1.10",
     "@types/yargs": "15.0.8",
     "commitizen": "4.2.1",
